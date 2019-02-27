@@ -3,7 +3,7 @@ title: Life giving food for spiritual health
 subtitle: Nourish and Refresh the Soul
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Content coming soon...
   text: Content goes here...
 intro:
   heading: Food for thought
