@@ -1,6 +1,6 @@
 ---
 title: Soul Food
-subtitle: Nourish and Refresh the Soul
+subtitle: Spiritual Nourishment
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Content coming soon...
