@@ -1,5 +1,5 @@
 ---
-title: Life giving food for spiritual health
+title: Soul Food
 subtitle: Nourish and Refresh the Soul
 image: /img/home-jumbotron.jpg
 blurb:
