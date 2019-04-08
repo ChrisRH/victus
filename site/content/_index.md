@@ -14,7 +14,7 @@ products:
   - image: /img/illustrations-coffee-gear.svg
     text: Content coming soon...
 values:
-  heading: Our values
+  heading: Values
   text: Content goes here...
 ---
 
